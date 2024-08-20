@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+**/node_modules
+
+# Build output
+build/
+dist/
+
+# Frontend build artifacts
+frontend/build/
+frontend/node_modules/
+
+# Backend build artifacts
+backend/node_modules/
+backend/build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
