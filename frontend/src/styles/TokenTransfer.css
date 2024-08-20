@@ -1,0 +1,23 @@
+.token-transfer {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .token-transfer input {
+    margin-right: 10px;
+  }
+  
+  .token-transfer button {
+    background-color: #17a2b8;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .token-transfer button:hover {
+    background-color: #138496;
+  }
+  

@@ -1,0 +1,15 @@
+.historical-data {
+    background-color: #fafafa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .historical-data select, .historical-data input {
+    margin-right: 10px;
+  }
+  
+  .historical-data input[type="date"] {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,24 @@
+.allowance-check {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .allowance-check input {
+    margin-right: 10px;
+  }
+  
+  .allowance-check button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .allowance-check button:hover {
+    background-color: #218838;
+  }
+  

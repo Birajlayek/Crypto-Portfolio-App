@@ -1,0 +1,24 @@
+.wallet-connection {
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .wallet-connection input {
+    margin-right: 10px;
+  }
+  
+  .wallet-connection button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .wallet-connection button:hover {
+    background-color: #0056b3;
+  }
+  
